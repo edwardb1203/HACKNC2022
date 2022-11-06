@@ -8,7 +8,7 @@ Our project aims to assist farmers in predicting the best crop to be planted bas
 To construct the machine learning model for our project, we used the XGBoost software library for Python. XGBoost is an open-source implementation of the gradient boosted trees algorithm. It has been engineered for optimal performance and it is known to perform well for structured, tabular data - one of the key reasons why we selected it. The model generated for our project reached an accuracy of .9964 in prediction when using a 75-25 train-test split of the data. The project utilizes Gradio (https://gradio.app/) to provide an interactive interface for users to input environmental conditions and read the output. 
 
 ### Dataset
-The dataset is taken from Kaggle (available publicly here) and provides a label for the optimal crop based on the Nitrogen, Phosphorous, Potassium, temperature, humidity, pH, and rainfall levels that are observed in the environment. There are a total of 22 possible labels in the dataset.
+The dataset is taken from Kaggle (available publicly [here](https://www.kaggle.com/datasets/siddharthss/crop-recommendation-dataset)) and provides a label for the optimal crop based on the Nitrogen, Phosphorous, Potassium, temperature, humidity, pH, and rainfall levels that are observed in the environment. There are a total of 22 possible crop labels in the dataset.
 
 ![Alt text](/assets/alternate/dataset_screenshot.png?raw=true "Dataset")
 
