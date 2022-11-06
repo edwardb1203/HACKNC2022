@@ -21,4 +21,5 @@ To run the project, please download the provided .ipynb file and run the tiles t
 ![Alt text](/assets/alternate/rice_screenshot.png?raw=true "Output")
 
 **Thank you for visiting our HackNC project!!
+
 -Shiva, Eddie, and Chloé**
