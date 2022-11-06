@@ -9,6 +9,7 @@ To construct the machine learning model for our project, we used the XGBoost sof
 
 ### Dataset
 The dataset is taken from Kaggle (available publicly here) and provides a label for the optimal crop based on the Nitrogen, Phosphorous, Potassium, temperature, humidity, pH, and rainfall levels that are observed in the environment. There are a total of 22 possible labels in the dataset.
+
 ![Alt text](/assets/alternate/dataset_screenshot.png?raw=true "Dataset")
 
 ### Operation
