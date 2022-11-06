@@ -1,6 +1,8 @@
 # Optimal Crop Prediction (HackNC 2022)
 ## **HackNC 2022 Project Submission created by Shiva Kammala, Edward Baker, and Chloe Halleschack!**
 
+![Alt text](/assets/alternate/hacknc.png?raw=true "HackNC 2022 Logo")
+
 ### About
 Our project aims to assist farmers in predicting the best crop to be planted based on a variety of environmental variables. As the world’s population increases, one of the most pressing challenges remains ensuring that agricultural supply meets the demand for food. To alleviate this issue, our project takes advantage of existing data from the Indian Chamber of Food and Agriculture (ICFA) to output the optimal fruit or vegetable to be grown based on the provided environmental conditions.
 
