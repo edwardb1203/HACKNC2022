@@ -1,5 +1,5 @@
 # Optimal Crop Prediction (HackNC 2022)
-## **HackNC 2022 Project Submission created by Shiva Kammala, Edward Baker, and Chloe Halleschack!**
+## **HackNC 2022 Project Submission created by Shiva Kammala, Edward Baker, and Chloe Holleschak!**
 
 ![Alt text](/assets/alternate/hacknc.png?raw=true "HackNC 2022 Logo")
 
