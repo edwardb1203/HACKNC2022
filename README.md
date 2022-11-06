@@ -20,4 +20,14 @@ To run the project, please download the provided .ipynb file and run the tiles t
 ![Alt text](/assets/alternate/input_screenshot.png?raw=true "Input")
 ![Alt text](/assets/alternate/rice_screenshot.png?raw=true "Output")
 
+#### Sources
+Information for the project was acquired from the following publicly available online resources:
+- Unsplash - www.unsplash.com
+- The Old Farmer’s Almanac - www.almanac.com
+- NSW  Department of Primary Industries - https://www.dpi.nsw.gov.au/agriculture/broadacre-crops/summer-crops/rice-development-guides/rice-growing-guide
+- Gardener’s Path - https://gardenerspath.com/plants/
+- IndiaAgroNet - https://indiaagronet.com/indiaagronet/crop%20info/crop.htm
+- The Spruce - www.thespruce.com
+- Gardenia Organic - www.gardeniaorganic.com
+
 **Thank you for visiting our HackNC project!!<br />-Shiva, Eddie, and Chloé**
